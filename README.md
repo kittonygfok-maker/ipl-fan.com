@@ -23,7 +23,7 @@ Quick-access links for managing the WordPress core, plugins, and themes.
 
 | Title / Anchor Text | Dashboard Category | Link |
 | :--- | :--- | :--- |
-| **IPL FAN Dashboard** | Main | [ipl-fan.com](https://ipl-fan.com/wp-admin/) |
+| **IPL FAN Dashboard** | Main | [ipl-fan.com](https://ipl-fan.com) |
 | **Plugins** | Management | [Manage](https://ipl-fan.com/wp-admin/plugins.php) |
 | **Themes** | Design | [Customize](https://ipl-fan.com/wp-admin/themes.php) |
 | **22 updates available** | Maintenance | [Update Now](https://ipl-fan.com/wp-admin/update-core.php) |
